@@ -1,18 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+<<<<<<<<< Temporary merge branch 1
 /node_modules
->>>>>>> origin/master
-=======
->>>>>>> 6c50605f996cccfa435887c9c57df05a46f3ce44
+=========
+>>>>>>>>> Temporary merge branch 2
 # Python
 *.py[cod]
 __pycache__/
 *.so
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 6c50605f996cccfa435887c9c57df05a46f3ce44
+<<<<<<<<< Temporary merge branch 1
+
+# Django
+=========
 *.egg
 *.egg-info/
 dist/
@@ -108,60 +105,13 @@ cover/
 *.pot
 
 # Django stuff:
-<<<<<<< HEAD
-=======
-
-# Django
->>>>>>> origin/master
-=======
->>>>>>> 6c50605f996cccfa435887c9c57df05a46f3ce44
+>>>>>>>>> Temporary merge branch 2
 *.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 6c50605f996cccfa435887c9c57df05a46f3ce44
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
-
-# IPython and Jupyter Notebook
-.ipynb_checkpoints
-
-# pyenv
-.python-version
-
-# celery beat schedule file
-celerybeat-schedule
-
-# SageMath parsed files
-*.sage.py
-
-# dotenv
-.env
-.env.*
-.venv
-env.bak/
-venv.bak/
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-<<<<<<< HEAD
-=======
+<<<<<<<<< Temporary merge branch 1
 # Static files
 staticfiles/
 
@@ -202,6 +152,41 @@ Thumbs.db
 htmlcov/
 .coverage
 .coverage.*
->>>>>>> origin/master
-=======
->>>>>>> 6c50605f996cccfa435887c9c57df05a46f3ce44
+=========
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython and Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# dotenv
+.env
+.env.*
+.venv
+env.bak/
+venv.bak/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+>>>>>>>>> Temporary merge branch 2
