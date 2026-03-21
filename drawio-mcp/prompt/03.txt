@@ -1,0 +1,1 @@
+สร้าง Class Diagram สำหรับระบบคลังสินค้าและออเดอร์ มีคลาส Warehouse, Product, StockItem, PurchaseOrder, Supplier, Shipment พร้อม method หลักเช่น createOrder(), receiveStock(), allocateStock() และเส้นความสัมพันธ์ไม่ทับกัน
